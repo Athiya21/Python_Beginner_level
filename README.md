@@ -1,2 +1,2 @@
 # Python_Beginner_level
-number,string,variable
+number,string,variable,Data Types(primitive)
