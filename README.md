@@ -1,2 +1,2 @@
 # Python_Beginner_level
-number, string, variable, Data Types(primitive), print()
+number, string, variable, Data Types(primitive), print(), Strings
